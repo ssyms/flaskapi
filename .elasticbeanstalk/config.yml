@@ -2,6 +2,10 @@ branch-defaults:
   master:
     environment: ciscoapi-dev
     group_suffix: null
+environment-defaults:
+  ciscoapi-dev:
+    branch: null
+    repository: null
 global:
   application_name: ciscoapi
   branch: null

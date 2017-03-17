@@ -6,7 +6,7 @@ from application.models import User
 application = Flask(__name__)
 application.debug=True
 # change this to your own value
-application.secret_key = 'cC1YCIWOj9GgWspgNEo2'
+application.secret_key = 'AKIAIBRQXVV7J63LICHQ'
 
 @application.route("/")
 def hello():

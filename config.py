@@ -3,4 +3,4 @@ SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://ciscoapi:ciscoapi@ciscoapi.cllodida4o
 SQLALCHEMY_POOL_RECYCLE = 3600
 
 WTF_CSRF_ENABLED = True
-SECRET_KEY = 'dsaf0897sfdg45sfdgfdsaqzdf98sdf0a'
+SECRET_KEY = 'cdSUwXnY6sFc8lTSlIhmaylkGVfTTdztrrz7QWqA'
